@@ -1,1 +1,1 @@
-# HTML-CSS-GSG-project
+# HTML/CSS__GSG project
